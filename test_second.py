@@ -1,1 +1,1 @@
-:wqprint("Hi...")
+print("Hi...")
