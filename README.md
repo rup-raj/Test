@@ -1,7 +1,7 @@
 # Test
 Test repo for git commands
 
-## Special characters
+## Github Markdown
 
 **Bold**
 __Bold__
@@ -49,3 +49,14 @@ class demo{
 }
 ```
 
+## Github Markdown Addition
+
+This is footnote[^1]
+
+[^1]: My reference
+
+Table
+| Left aligned | Center aligned | Right aligned |
+| ------------ | :------------: | ------------: |
+| row 1        | value 11       | value12       |
+| row 2        | value 21       | value22       |
